@@ -1,0 +1,8 @@
+name: example
+description: An example tool
+version: 1.0.0
+options:
+  friendly:
+    flag: yes
+  text:
+    flag: no
