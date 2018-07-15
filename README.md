@@ -1,2 +1,2 @@
-# fabric8centralrepo
-The central package repository for Fabric8's package manager
+# ultitool
+The central package repository for UltiTool's package manager
